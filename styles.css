@@ -1,0 +1,4 @@
+.tab-button { padding: 10px; cursor: pointer; }
+.tab-button.active { font-weight: bold; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
